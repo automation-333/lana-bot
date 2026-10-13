@@ -1,0 +1,7 @@
+{
+  "name": "lana-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Демо Telegram-бота для салона: цены, запись, вопросы, передача администратору",
+  "engines": { "node": ">=18" }
+}
